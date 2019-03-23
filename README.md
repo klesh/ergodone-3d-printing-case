@@ -6,3 +6,4 @@
 * m5x50 支撑 6pcs
   ![](https://github.com/klesh/ergodone-3d-printing-case/raw/master/accessories/leg-6pcs.png)
 * m5x6x6 支撑螺母 6pcs
+  ![](https://github.com/klesh/ergodone-3d-printing-case/raw/master/accessories/legs-nuts-6pcs.png)
